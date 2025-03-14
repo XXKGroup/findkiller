@@ -1,4 +1,5 @@
 import './App.css';
+import Main from './container/main/main.jsx'
 
 function App() {
   return (

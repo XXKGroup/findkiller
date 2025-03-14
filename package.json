@@ -9,7 +9,12 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "5.0.1",
+    "scratch-audio": "^2.0.92",
+    "scratch-render": "^2.0.222",
+    "scratch-storage": "^4.0.77",
+    "scratch-vm": "^5.0.217",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
